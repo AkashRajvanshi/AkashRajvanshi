@@ -9,19 +9,19 @@
 <br />
 
 <a href="https://twitter.com/Akash_Rajvanshi">
-  <img align="center" alt="Akash_Rajvanshi" style="padding-left:15px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Akash_Rajvanshi" style="padding-left:20px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/akash-rajvanshi-635162141/">
-  <img align="center" alt="Akash Rajvanshi" style="padding-left:15px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Akash Rajvanshi" style="padding-left:20px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.reddit.com/user/Akash_Rajvanshi/">
-  <img align="center" alt="Akash Rajvanshi" style="padding-left:15px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="center" alt="Akash Rajvanshi" style="padding-left:20px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
 <a href="https://medium.com/@AkashRajvanshi">
-  <img align="center" alt="Akash Rajvanshi" style="padding-left:15px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="center" alt="Akash Rajvanshi" style="padding-left:20px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 <br />
@@ -34,7 +34,7 @@
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Python, Data Structures & Algorithms
-- 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=Akash_Rajvanshi&tw_p=followbutton"></a> or `hi@inputhash.com`
+- 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=Akash_Rajvanshi&tw_p=followbutton">img src="https://img.shields.io/twitter/follow/swyx?label=%40Akash_Rajvanshi&style=social"></a> or `hi@inputhash.com`
 - 😄 Pronouns: he/him
 
 ---
