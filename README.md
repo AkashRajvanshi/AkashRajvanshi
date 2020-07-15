@@ -8,21 +8,23 @@
 
 <br />
 
+<p align="center">
 <a href="https://twitter.com/Akash_Rajvanshi">
-  <img align="center" alt="Akash_Rajvanshi" style="padding-left:20px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+  <img align="center" alt="Akash_Rajvanshi" style="padding-left:20px;" height="30px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/akash-rajvanshi-635162141/">
-  <img align="center" alt="Akash Rajvanshi" style="padding-left:30px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+  <img align="center" alt="Akash Rajvanshi" style="padding-left:30px;" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>&nbsp;&nbsp;
 
 <a href="https://www.reddit.com/user/Akash_Rajvanshi/">
-  <img align="center" alt="Akash Rajvanshi" style="padding-left:30px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
+  <img align="center" alt="Akash Rajvanshi" style="padding-left:30px;" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>&nbsp;&nbsp;
 
 <a href="https://medium.com/@AkashRajvanshi">
-  <img align="center" alt="Akash Rajvanshi" style="padding-left:30px;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+  <img align="center" alt="Akash Rajvanshi" style="padding-left:30px;" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>&nbsp;&nbsp;
+</p>
 
 <br />
 
