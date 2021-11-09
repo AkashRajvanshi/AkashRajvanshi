@@ -42,3 +42,7 @@
 ---
 
 ⭐️ From [AkashRajvanshi](https://github.com/AkashRajvanshi)
+
+---
+
+![Alt](https://repobeats.axiom.co/api/embed/bad8e8356ec865cafda06f55f345e5913e6b9059.svg "Repobeats analytics image")
