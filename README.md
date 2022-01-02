@@ -4,7 +4,7 @@ Hey ⭐, I'm an enthusiastic engineer and programmer with a keen interest in tec
 I'm actively looking for an opportunity to work in a creatively challenging environment where I can use my abilities to advance up the organization's graph through sincere dedication and hard work, and I always share my knowledge with the community because I believe that only by working together can we shape a better future.
 
 - :office: &nbsp;I'm currently working at **Tecorelabs Pvt Ltd**
-- :seedling: &nbsp;I’m currently learning **[Python, AWS, K8native]**
+- :seedling: &nbsp;I’m currently learning Python, AWS
 - :speech_balloon: &nbsp;I like to talk about **Linux**, **Security** and **Cloud**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
