@@ -8,7 +8,7 @@ I'm actively looking for an opportunity to work in a creatively challenging envi
 - :speech_balloon: &nbsp;I like to talk about **Linux**, **Security** and **Cloud**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=Akash_Rajvanshi&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Akash_Rajvanshi?label=%40Akash_Rajvanshi&style=social"></a> or `hello@thedevopsguy.tech`
+- 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=Akash_Rajvanshi&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Akash_Rajvanshi?label=%40Akash_Rajvanshi&style=social"></a> or `hello@thedevopsguy.biz`
 
 <br>
 
