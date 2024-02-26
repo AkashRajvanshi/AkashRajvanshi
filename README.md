@@ -66,6 +66,13 @@ I'm actively looking for an opportunity to work in a creatively challenging envi
       </a>
       <br>Git
     </td>
+        </td>
+                        <td align="center" width="96">
+      <a href="#devops" >
+        <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" alt="Vault" />
+      </a>
+      <br>Vault
+    </td>
     </tr>
     <tr>
      <td align="center" width="96">
@@ -118,6 +125,13 @@ I'm actively looking for an opportunity to work in a creatively challenging envi
         <img src="https://icon.icepanel.io/Technology/svg/Jira.svg" width="48" height="48" alt="Jira" />
       </a>
       <br>Jira
+    </td>
+            </td>
+             <td align="center" width="96">
+      <a href="#devops" >
+        <img src="https://icon.icepanel.io/Technology/svg/Trello.svg" width="48" height="48" alt="Trello" />
+      </a>
+      <br>Trello
     </td>
     </tr>
    <tr>
@@ -175,13 +189,6 @@ I'm actively looking for an opportunity to work in a creatively challenging envi
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Graylog-logo-blk.jpg" width="48" height="48" alt="Graylog" />
       </a>
       <br>Graylog
-    </td>
-        </td>
-                        <td align="center" width="96">
-      <a href="#devops" >
-        <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" alt="Vault" />
-      </a>
-      <br>Vault
     </td>
   </tr>
 
