@@ -38,7 +38,7 @@ I'm actively looking for an opportunity to work in a creatively challenging envi
     </td>
     <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/TuxFlat.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
@@ -56,7 +56,7 @@ I'm actively looking for an opportunity to work in a creatively challenging envi
     </td>
         <td align="center" width="96">
       <a href="#devops">
-        <img src="https://landscape.cncf.io/logos/amazon-elastic-kubernetes-service-distro-amazon-eks-d.svg" width="48" height="48" alt="Azure" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
@@ -70,7 +70,7 @@ I'm actively looking for an opportunity to work in a creatively challenging envi
     <tr>
      <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mongodb.svg" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
@@ -83,39 +83,39 @@ I'm actively looking for an opportunity to work in a creatively challenging envi
         </td>
          <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/cassandra.svg" width="48" height="48" alt="Cassandra" />
+        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/cassandra.svg" width="48" height="48" alt="Cassandra" />
       </a>
       <br>Cassandra
     </td>
      <td align="center" width="96">
       <a href="#devops" >
-        <img src="./images/docker.svg" width="48" height="48" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/cloud/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
          <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/podman.svg" width="48" height="48" alt="Podman" />
+        <img src="https://icon.icepanel.io/Technology/svg/Podman.svg" width="48" height="48" alt="Podman" />
       </a>
       <br>Podman
     </td>
              <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/kubernetes.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
         </td>
              <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/helm.svg" width="48" height="48" alt="Helm" />
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" alt="Helm" />
       </a>
       <br>Helm
     </td>
             </td>
              <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/atlassian-member.svg" width="48" height="48" alt="Jira" />
+        <img src="https://icon.icepanel.io/Technology/svg/Jira.svg" width="48" height="48" alt="Jira" />
       </a>
       <br>Jira
     </td>
@@ -123,52 +123,65 @@ I'm actively looking for an opportunity to work in a creatively challenging envi
    <tr>
     <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/git-hub-actions.svg" width="48" height="48" alt="github-actions" />
+        <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" width="48" height="48" alt="github-actions" />
       </a>
       <br>Github-Actions
     </td>
     <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/flux.svg" width="48" height="48" alt="flux" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flux_color_logo.png" width="48" height="48" alt="flux" />
       </a>
       <br>Flux
     </td>
         <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/istio.svg" width="48" height="48" alt="Istio" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Istio-bluelogo-nobackground-unframed.svg" width="48" height="48" alt="Istio" />
       </a>
       <br>Istio
     </td>
             <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/traefik.svg" width="48" height="48" alt="Traefik" />
+        <img src="https://icon.icepanel.io/Technology/svg/Traefik-Proxy.svg" width="48" height="48" alt="Traefik" />
       </a>
       <br>Traefik
     </td>
                 <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/terraform.svg" width="48" height="48" alt="Terraform" />
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Ansible.png" width="48" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+                <td align="center" width="96">
+      <a href="#devops" >
+        <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
                     <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/prometheus.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" width="48" height="48" alt="Prometheus" />
       </a>
       <br>Prometheus
     </td>
                         <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/grafana.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://icon.icepanel.io/Technology/svg/Grafana.svg" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
     </td>
         </td>
                         <td align="center" width="96">
       <a href="#devops" >
-        <img src="https://landscape.cncf.io/logos/graylog.svg" width="48" height="48" alt="Graylog" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Graylog-logo-blk.jpg" width="48" height="48" alt="Graylog" />
       </a>
       <br>Graylog
+    </td>
+        </td>
+                        <td align="center" width="96">
+      <a href="#devops" >
+        <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" alt="Vault" />
+      </a>
+      <br>Vault
     </td>
   </tr>
 
