@@ -10,6 +10,11 @@ I'm actively looking for an opportunity to work in a creatively challenging envi
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=Akash_Rajvanshi&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Akash_Rajvanshi?label=%40Akash_Rajvanshi&style=social"></a> or `hello@thedevopsguy.biz`
 
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/724639853387579584?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/724639853387579584)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/724639853387579584)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/724639853387579584)](https://dev.discordprofiles.me/openspotify/724639853387579584)
+
 <br>
 
 <h2 align="left" id="devops">Favorite Tech</h2>
