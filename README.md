@@ -3,9 +3,9 @@
 Hey ⭐, I'm an enthusiastic engineer and programmer with a keen interest in technology. I strive to work with committed, like-minded engineers who inspire and motivate me. My most recent professional interests are in SRE and Security as I keep up with updated technologies.
 I'm actively looking for an opportunity to work in a creatively challenging environment where I can use my abilities to advance up the organization's graph through sincere dedication and hard work, and I always share my knowledge with the community because I believe that only by working together can we shape a better future.
 
-- :office: &nbsp;I'm currently working at **Tecorelabs Pvt Ltd**
+- :office: &nbsp;I'm currently working at **OpsTREE Solution**
 - :seedling: &nbsp;I’m currently learning Python, AWS
-- :speech_balloon: &nbsp;I like to talk about **Linux**, **Security** and **Cloud**
+- :speech_balloon: &nbsp;I like to talk about **Containers**, **Security** and **Cloud**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me: <a href="https://twitter.com/intent/follow?screen_name=Akash_Rajvanshi&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/Akash_Rajvanshi?label=%40Akash_Rajvanshi&style=social"></a> or `hello@thedevopsguy.biz`
