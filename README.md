@@ -9,12 +9,11 @@ Building platforms, breaking things, learning constantly.
 ### 📝 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
- - [How to Build Resilient Observability Pipelines with OpenTelemetry and Kafka!](https://medium.com/@AkashRajvanshi/how-to-build-resilient-observability-pipelines-with-opentelemetry-and-kafka-40f19f6cc610)
- - [The Modern Media Homelab: Docker Stacks Deployed with GitHub Actions &amp; Komodo](https://medium.com/@AkashRajvanshi/the-modern-media-homelab-docker-stacks-deployed-with-github-actions-komodo-c08f31ff5ba7)
- - [Supercharge Postgres on K8s: A CNPG PostgreSQL + Pigsty Observability Guide](https://medium.com/@AkashRajvanshi/supercharge-postgres-on-k8s-a-cnpg-postgresql-pigsty-observability-guide-bd6dd7db38b7)
- - [Flipping the Switches: Adding Services to a Declarative NixOS Homelab [PART-2]](https://medium.com/@AkashRajvanshi/flipping-the-switches-adding-services-to-a-declarative-nixos-homelab-part-2-6afb97f13a42)
- - [It's Alive! Bootstrapping a Declarative NixOS Homelab [Part-1]](https://medium.com/@AkashRajvanshi/its-alive-bootstrapping-a-declarative-nixos-homelab-part-1-efbdc68978ed)
-<!-- BLOG-POST-LIST:END -->
+ - [My 2026 Homelab Architecture — Part 3: Operations &amp; Plans](https://blogs.thedevopsguy.biz/blog/homelab-architecture-operations)
+ - [My 2026 Homelab Architecture — Part 2: Services &amp; Apps](https://blogs.thedevopsguy.biz/blog/homelab-architecture-apps-services)
+ - [My 2026 Homelab Architecture — Part 1: The Infrastructure](https://blogs.thedevopsguy.biz/blog/homelab-architecture-foundation)
+ - [How to Build Resilient Observability Pipelines with OpenTelemetry and Kafka!](https://blog.devgenius.io/how-to-build-resilient-observability-pipelines-with-opentelemetry-and-kafka-690d76d80a8c?source=rss-47d43003875d------2)
+ - [How to Build Resilient Observability Pipelines with OpenTelemetry and Kafka!](https://blogs.thedevopsguy.biz/blog/resiliant-observability-pipeline-with-otel)<!-- BLOG-POST-LIST:END -->
 
 ---
 
