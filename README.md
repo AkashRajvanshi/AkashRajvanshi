@@ -9,11 +9,11 @@ Building platforms, breaking things, learning constantly.
 ### 📝 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+ - [Correlating Telemetry in Grafana: From Metrics to Logs to Traces](https://blogs.thedevopsguy.biz/blog/data-correlation-grafana)
  - [Designing a Telemetry Pipeline That Scales [Part 2]: Sampling, Kafka, Storage, and HA](https://blogs.thedevopsguy.biz/blog/metrics-pipeline-at-scale-part-2)
  - [Designing a Telemetry Pipeline That Scales [Part 1]: Architecture, Agents, and Forwarders](https://blogs.thedevopsguy.biz/blog/metrics-pipeline-at-scale)
  - [My 2026 Homelab Architecture — Part 3: Operations &amp; Plans](https://blogs.thedevopsguy.biz/blog/homelab-architecture-operations)
- - [My 2026 Homelab Architecture — Part 2: Services &amp; Apps](https://blogs.thedevopsguy.biz/blog/homelab-architecture-apps-services)
- - [My 2026 Homelab Architecture — Part 1: The Infrastructure](https://blogs.thedevopsguy.biz/blog/homelab-architecture-foundation)<!-- BLOG-POST-LIST:END -->
+ - [My 2026 Homelab Architecture — Part 2: Services &amp; Apps](https://blogs.thedevopsguy.biz/blog/homelab-architecture-apps-services)<!-- BLOG-POST-LIST:END -->
 
 ---
 
