@@ -9,11 +9,11 @@ Building platforms, breaking things, learning constantly.
 ### 📝 Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
- - [Designing a Scalable &amp; Fault-Tolerant Log Pipeline [Part 3]: Storage &amp; Analytics](https://blogs.thedevopsguy.biz/blog/log-pipeline-at-scale-p3)
+ - [Designing a Scalable &amp; Fault-Tolerant Log Pipeline [Part 4]: Extract INFO from ERRORS](https://blogs.thedevopsguy.biz/blog/log-pipeline-at-scale-p4)
  - [Designing a Scalable &amp; Fault-Tolerant Log Pipeline [Part 2]: The Buffer Layer](https://blogs.thedevopsguy.biz/blog/log-pipeline-at-scale-p2)
+ - [Designing a Scalable &amp; Fault-Tolerant Log Pipeline [Part 3]: Storage &amp; Analytics](https://blogs.thedevopsguy.biz/blog/log-pipeline-at-scale-p3)
  - [Designing a Scalable &amp; Fault-Tolerant Log Pipeline [Part 1]: Agents and Forwarders](https://blogs.thedevopsguy.biz/blog/log-pipeline-at-scale-p1)
- - [Correlating Telemetry in Grafana: From Metrics to Logs to Traces](https://blogs.thedevopsguy.biz/blog/data-correlation-grafana)
- - [Designing a Telemetry Pipeline That Scales [Part 2]: Sampling, Kafka, Storage, and HA](https://blogs.thedevopsguy.biz/blog/metrics-pipeline-at-scale-part-2)<!-- BLOG-POST-LIST:END -->
+ - [Correlating Telemetry in Grafana: From Metrics to Logs to Traces](https://blogs.thedevopsguy.biz/blog/data-correlation-grafana)<!-- BLOG-POST-LIST:END -->
 
 ---
 
